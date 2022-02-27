@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6754093B-20CD-C03B-0D64-4C07D0F72E3A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ballmovement.cs">
+    <Files>
+      <File FileName="Assets/followplayer.cs" Line="9" Column="1" />
+      <File FileName="Assets/ballmovement.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Basketball" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="91cd8d3c-a355-4764-95d8-ad91033c842a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
